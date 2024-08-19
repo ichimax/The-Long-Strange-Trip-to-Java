@@ -1,4 +1,6 @@
-Original text: http://www.blinkenlights.com/classiccmp/javaorigin.html
+Оригинальный текст: http://www.blinkenlights.com/classiccmp/javaorigin.html  
+Перевод в блоге: [ч.1](https://topjava.ru/blog/zabytaya-istoriya-java-glazami-patrika-notona), [ч.2](https://topjava.ru/blog/zabytaya-istoriya-java-glazami-patrika-notona2)  
+Перевод на хабре: https://habr.com/ru/articles/831426/
 
 # The Long Strange Trip to Java
 
